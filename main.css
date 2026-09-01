@@ -1,9 +1,1 @@
-body {
-  display: grid;
-  background-color: rgba(187, 68, 92, 0.938);
-  place-items: center;
-}
-img {
-  aspect-ratio: 1/1;
-  width: 50%;
-}
+main.css
